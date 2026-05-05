@@ -1,0 +1,3 @@
+The fastes way to achieve this is...
+ssh banner@stapp03
+sudo useradd -s /sbin/nologin javed
